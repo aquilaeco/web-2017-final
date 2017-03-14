@@ -1000,6 +1000,10 @@ img {
   text-align: center;
 }
 
+.contact-bottom	{
+	margin-bottom: 100px;
+}
+
 .studies_container {
   display: block;
   overflow: visible;
